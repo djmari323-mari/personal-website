@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Applications"
+		},
+		{
+			"path": "../Documents"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DamariHughesWebsite."
+	}
+}
